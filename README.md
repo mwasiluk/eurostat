@@ -1,2 +1,2 @@
 # eurostat
-A higher-level wrapper around the Eurostat API. Intended for the browser.
+A higher-level javascript wrapper around the Eurostat API. Intended for the browser.
